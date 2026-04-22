@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksar2506" alt="ksar2506" /></a> </p>
 
-- 🔭 I’m currently working on [Campus Connect AI](https://campus-connect-ai-lemon.vercel.app/)
-
+- 🔭 I’m currently working on [Campus Connect AI](https://campus-connect-ai-lemon.vercel.app/) and [XYZ CONSOLE](xyzconsole.in)
+ 
 - 🌱 I’m currently learning **React ,node.js**
 
 - 📫 How to reach me **kushagraagarwal2506@gmail.com**
